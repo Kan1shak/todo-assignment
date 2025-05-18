@@ -1,0 +1,16 @@
+{
+  "name": "assignment_todo",
+  "version": "1.0.0",
+  "description": "A simple todo app",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "keywords": [],
+  "author": "Kanishak Sangwan",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
